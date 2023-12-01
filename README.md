@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @apurvashukla1999
 - 👀 I’m interested in cybersecurity, testing, programming, software development, network engineering and network security.
-- 🌱 I’m currently studying for a Bachelor's in Computer Science.
+- 🌱 I’m holding a Bachelor's Degree in Computer Science.
 - 💞️ I’m looking to collaborate on simple projects.
 - 📫 How to reach me? send an email on apurvashukla99@gmail.com
 
